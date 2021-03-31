@@ -1,3 +1,2 @@
 # projeto-exemplo
-Projeto de testes com o git
-Aula de controle de versão
+Projeto de testes com o git para uso do controle de versão.
