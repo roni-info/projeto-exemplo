@@ -1,2 +1,3 @@
 Hello World !!
 Aula de controle de versão com git
+Entendendo conflitos com git
